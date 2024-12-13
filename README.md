@@ -2,7 +2,7 @@
 
 👀 I'm interested in transforming waste management through blockchain technology and incentivizing eco-conscious behavior.
 
-🌱 I'm currently learning and developing cutting-edge Waste2Earn solutions, exploring new ways to integrate recycling, upcycling, and waste reduction into a gamified ecosystem.
+🌱 I'm currently learning and developing cutting-edge Waste2Earn solutions, exploring new ways to integrate recycling, upcycling, and waste reduction into a decentralized finance application.
 
 💞️ I'm looking to collaborate with passionate individuals, communities, and organizations that share a vision for a cleaner planet. Whether you're a developer, environmentalist, or simply someone who cares about sustainability, let's connect!
 
