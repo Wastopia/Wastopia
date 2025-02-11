@@ -1,15 +1,11 @@
-👋 Hi, I'm @Wastopia - Your Gateway to Waste2Earn Innovation
+👋 Welcome to the official GitHub profile of Wastopia, a revolutionary game and Waste2Earn DApp that's changing the way we think about waste management. Our mission is to create a sustainable future by leveraging blockchain technology and gamification to promote eco-friendly practices.
 
-👀 I'm interested in transforming waste management through blockchain technology and incentivizing eco-conscious behavior.
+👀 Projects:
+Wastopia Game Development: A project board tracking the development progress of the Wastopia game.
+Waste2Earn DApp Development: A project board tracking the development progress of the Waste2Earn DApp.
 
-🌱 I'm currently learning and developing cutting-edge Waste2Earn solutions, exploring new ways to integrate recycling, upcycling, and waste reduction into a decentralized finance application.
+🌱 Contributing:
+We welcome contributions from developers, designers, and environmental enthusiasts who share our vision of creating a more sustainable future. Please review our contributing guidelines before submitting pull requests or issues.
 
-💞️ I'm looking to collaborate with passionate individuals, communities, and organizations that share a vision for a cleaner planet. Whether you're a developer, environmentalist, or simply someone who cares about sustainability, let's connect!
-
-📫 How to reach me:
-
-Email: hello@waste2earn.xyz
-Twitter: [https://x.com/waste2earn]
-Telegram: [https://t.me/waste2earn]
-
-⚡ Fun fact: Wastopia envisions a future where waste is not just a problem but a resource waiting to be unlocked. Join us on this exciting journey!
+📫 Community:
+⚡ Join our community on Discord (https://discord.gg/waste2earn) or Twitter (@Waste2Earn) to stay updated on our progress and get involved in discussions about sustainability and gaming.
